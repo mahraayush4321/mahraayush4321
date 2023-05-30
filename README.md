@@ -31,7 +31,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-752&show_icons=true&locale=en" alt="Tanishq" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-752&" alt="Tanishq" /></p>
 
