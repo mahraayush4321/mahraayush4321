@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Rent Smartphones](https://github.com/mahraayush4321/rent)
 
-- 🌱 I’m currently learning **React, ReactNative, Nestjs ,expressjs**
+- 🌱 I’m currently learning **React, ReactNative,expressjs**
 
 - 👯 I’m looking to collaborate on [Rent Smartphones](https://github.com/mahraayush4321/rent)
 
